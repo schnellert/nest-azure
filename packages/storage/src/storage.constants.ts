@@ -1,0 +1,1 @@
+export const AZURE_STORAGE_CLIENT = Symbol("AZURE_STORAGE_CLIENT");
