@@ -1,0 +1,9 @@
+{
+  "name": "nest-azure",
+  "scripts": {
+    "build": "lerna run build"
+  },
+  "dependencies": {
+    "lerna": "^8.0.1"
+  }
+}
